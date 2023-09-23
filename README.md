@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-1. #### 첫번째 프로젝트 <br>
+1. #### 첫번째 프로젝트
    flex로 모바일 대응도 가능하게 Component 작업  <br>
    SpringBoot와 비슷하게 생긴 Nest.js + TypeORM 이미 세팅되어 있는 환경에서 복잡한 기능 제외하고 CURD 작업 <br>
 
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-1. #### 개인프로젝트 <br>
+1. #### 개인프로젝트
    유튜브클론코딩 (SpringBoot + Themeleaf + Mysql) <br>
    크게 3가지 다룰줄 알게 됨 (CRUD , flex로 레이아웃 잡는법, css) <br><br>
-2. #### 팀프로젝트 (내가 한부분만) <br>
+2. #### 팀프로젝트 (내가 한부분만)
    디스코드 클론코딩 - 내가 한것만(SpringBoot + Vue.js + Pinia + MariaDB + Spring Security + JWT Token(AccessToken, RefreshToken) ) <br>
    클라이언트쪽 레아아웃부터 디자인 디스플레이 작업의 80% 이상 담당 (개인프로젝트의 발전?) <br>
    lobbyMain 화면과 SOCKET제외하고 CRUD담당 <br>
