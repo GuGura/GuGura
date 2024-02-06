@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![NextJS](https://img.shields.io/badge/nextjs-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 1. #### 첫번째 프로젝트
    flex로 모바일 대응도 가능하게 Component 작업  <br>
    SpringBoot와 비슷하게 생긴 Nest.js + TypeORM 이미 세팅되어 있는 환경에서 복잡한 기능 제외하고 CURD 작업 <br>
